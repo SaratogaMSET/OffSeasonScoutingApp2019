@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private Button scale1;
     private Button switch1;
     private Stack<Integer> stack;
+    
     public int x = 0;
     public int y = 0;
     public int z = 0;
